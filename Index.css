@@ -1,0 +1,40 @@
+ 
+.body{
+  display: flex;
+  flex-direction: column;
+}
+.main{
+  height: 600px;
+  text-align: center;
+  font-size: 100px;
+  background-color: darkgreen;
+  
+}
+.bottomBox{
+  border-style: solid;
+  display: flex; 
+  flex-direction: row;
+  justify-content: space-around;
+}
+.socialMedia{
+  width: 270px;
+  height: 324;
+  padding: 10px;
+  text-align: center;
+
+}
+
+.officeInfo{
+  width: 270px;
+  height: 324;
+  padding: 10px;
+  text-align: center;
+  
+}
+.contactUs{
+  width: 270px;
+  height: 324;
+  padding: 10px;
+  text-align: center;
+  
+}

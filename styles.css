@@ -1,0 +1,49 @@
+body {
+  background-color: #6e6b90;
+  color: ;
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  text-align: center;
+ font-size: 34pt;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ padding-top: 20pt;
+}
+.main{
+  height: 600px;
+  text-align: center;
+  font-size: 100px;
+  background-color: darkgreen;
+  
+}
+.bottomBox{
+  background-color: aquamarine;
+  border-style: solid;
+  display: flex; 
+  flex-direction: row;
+  justify-content: space-around;
+}
+.socialMedia{
+  width: 270px;
+  height: 324;
+  padding: 10px;
+  text-align: center;
+
+}
+
+.officeInfo{
+  width: 270px;
+  height: 324;
+  padding: 10px;
+  text-align: center;
+  
+}
+.contactUs{
+  width: 270px;
+  height: 324;
+  padding: 10px;
+  text-align: center;
+  
+}
